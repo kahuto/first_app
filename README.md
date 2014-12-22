@@ -1,3 +1,9 @@
+#This is all about Ruby rails
+
+This is the first application i am ever thingking of building
+www.kahuto.com
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
